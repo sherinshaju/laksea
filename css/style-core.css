@@ -4353,7 +4353,7 @@ body.zurf-boxed .gdlr-core-column-extend-right .gdlr-core-pbf-background-wrap {
 }
 .zurf-mobile-header .zurf-logo-inner img {
   vertical-align: middle;
-  width: auto;
+  width: 60%;
 }
 body .zurf-mobile-header .zurf-logo {
   padding: 0 15px;
